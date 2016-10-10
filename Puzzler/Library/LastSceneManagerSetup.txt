@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/C5L1-House.unity
+  isLoaded: 1
+  isActive: 1
